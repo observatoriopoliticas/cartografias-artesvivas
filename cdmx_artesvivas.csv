@@ -1,0 +1,307 @@
+cartodb_id,nombre,disciplina,circuito,ano_ap,ano_cl,condicion_mobiliaria,sostenimiento,estatus,clausuras,a-pandemia,cl-pandemia,aforo,alcaldia,longitud,latitud,contacto
+1,Anglo Arts Centre,Artes escénicas,Formación,1950,1979,Propio,Autogenerados,Abierto,Sin información,,,151 a 200 personas,Cuauhtémoc,-99.1636565,19.4354132,https://www.angloarts.mx/apps/pages/index.jsp?uREC_ID=822208&type=d&pREC_ID=staff
+2,Centro de Arte Dramático A. C. CADAC,Teatro,Formación,1950,1979,Comodato,Servicios,Abierto,Sin clausuras,,,251 a 300 personas,Coyoacán,-99.164193,19.350629,cadac1975@hotmail.com
+3,Escuela de danza Marina,Danza,Formación,1950,1979,Sin información,Servicios,Abierto,Sin información,,,Sin información,Venustiano Carranza,-99.112022,19.411954,https://www.facebook.com/Escuela-de-Danza-Marina-Danzas-Polinesias-289271407752951
+4,Foro Cultural Lenin,Teatro,Difusión,1950,1979,Sin información,Sin información,Abierto,Sin información,,,201 a 250 personas,Cuauhtémoc,-99.157257,19.419617,https://www.facebook.com/pages/Foro%20Lenin/698738093485509/
+5,Foro Tecuicanime,Música,Difusión,1950,1979,Rentado,Servicios,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.162475,19.416729,https://www.facebook.com/Foro-Tecuicanime-143000624562698
+6,La Capilla Teatro,Artes vivas,Difusión,1950,1979,Sin información,Multisostenimiento,Abierto,Sin clausuras,,,51 a 100 personas,Coyoacán,-99.1641515,19.3574019,https://www.facebook.com/LaCapillaTeatro
+7,Carpa Geodésica,Teatro,Difusión,1950,1979,Sin información,Multisostenimiento,Abierto,Sin información,,,201 a 250 personas,Álvaro Obregón,-99.188468,19.345561,Sin información
+8,Casa El Juglar,Multidisciplina,Difusión,1950,1979,Sin información,Sin información,Cerrado permanentemente,Sin información,,,Sin información,Álvaro Obregón,-99.18721399,19.3573107560758,Ya no cuenta con página web
+9,Carpa Astros,Artes vivas,Consumo,1950,1979,Propio,Servicios,Abierto,Sin información,,,Más de 350 personas,Benito Juárez,-99.1395017,19.3888478,https://www.facebook.com/CARPA-Astros-816252418430515
+10,Centro Cultural Castillo,Danza,Formación,1980,1990,Sin información,Servicios,Abierto,Sin información,,,Sin información,Tláhuac,-99.002639,19.270806,https://www.facebook.com/danzacccmx
+11,Los Talleres,Danza,Formación,1980,1990,Sin información,Servicios,Abierto,Sin información,,,51 a 100 personas,Coyoacán,-99.165239,19.349335,http://www.lostalleres.com.mx/
+12,Foro Contigo América,Teatro,Difusión,1980,1990,Sin información,Autogenerados,Abierto,Sin clausuras,,,Hasta 50 personas,Benito Juárez,-99.180597,19.392623,https://www.facebook.com/ContigoAmerica
+13,Foro Shakespeare,Teatro,Difusión,1980,1990,Rentado,Servicios,Abierto,Sin clausuras,,,101 a150 personas,Cuauhtémoc,-99.176641,19.4194399,http://foroshakespeare.com/
+14,El Bataclán,Artes vivas,Difusión,1980,1990,Sin información,Sin información,Cerrado temporalmente,Sin información,,,51 a 100 personas,Cuauhtémoc,-99.16725,19.415167,https://www.facebook.com/ElBataclanCDMX
+15,Centro Cultural Clínica Regina,Otras disciplinas,Formación,1991,1995,Sin información,Sin información,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.1378343,19.4281917,https://www.facebook.com/clinica.regina
+16,"Centro de Artes y Oficios
+ Escuelita Emiliano
+ Zapata Centro de Artes y Oficios",Multidisciplina,Formación,1991,1995,Propio,Autogenerados,Abierto,Sin clausuras,,,201 a 250 personas,Coyoacán,-99.164863,19.3260412,https://www.facebook.com/Centro-de-Artes-y-Oficios-Escuelita-Emiliano-Zapata-179765332066567/
+17,Sensorama,Teatro,Formación,1991,1995,Rentado,Multisostenimiento,Abierto,Sin clausuras,,,Hasta 50 personas,Cuauhtémoc,-99.161524,19.415619,http://www.sensorama.mx/
+18,Centro Cultural el Foco,Teatro,Difusión,1991,1995,Rentado,Multisostenimiento,Abierto,Sin clausuras,,,51 a 100 personas,Cuauhtémoc,-99.166958,19.40876,https://www.facebook.com/CCElFoco/
+19,Foro Luces de Bohemia,Teatro,Difusión,1991,1995,Sin información,Autogenerados,Cerrado permanentemente,Sin clausuras,,,51 a 100 personas,Cuauhtémoc,-99.158839,19.413535,https://www.facebook.com/Foro-Luces-de-Bohemia-Centro-Cultural-Casa-de-Orizaba-1033898529963961
+20,Teatro Renacimiento Centro Teatral Manolo Fábregas,Teatro,Difusión,1991,1996,Propio,Sin información,Abierto,Sin información,,,251 a 300 personas,Cuauhtémoc,-99.1654863,19.4411298,https://www.facebook.com/pages/Centro%20Teatral%20Manolo%20Fabregas/180666028619222/
+21,"Casa del Poeta ""Ramón López Velarde""",Otras disciplinas,Difusión,1991,1995,Comodato,Multisostenimiento,Abierto,Sin clausuras,,,51 a 100 personas,Cuauhtémoc,-99.158241,19.418889,https://www.facebook.com/pages/Casa%20del%20Poeta%20Ramon%20L%C3%B3pez%20Velarde%20en%20la%20Col%20Roma%20de%20la%20Cd%20de%20M%C3%A9xico./370378389728677/
+22,Foro del Tejedor,Multidisciplina,Difusión,1991,1995,Sin información,Autogenerados,Abierto,Sin información,,,101 a150 personas,Cuauhtémoc,-99.158774,19.418284,https://www.facebook.com/Foro.del.Tejedor
+23,MultiForo Alicia,Música,Difusión,1991,1995,Rentado,Servicios,Abierto,Más de una,,,251 a 300 personas,Cuauhtémoc,-99.15426,19.4215716,https://www.facebook.com/MultiforoCulturalAlicia
+24,Sala Novo (Teatro La Capilla),Artes escénicas,Difusión,1991,1995,Propio,Multisostenimiento,Abierto,Sin clausuras,,,Hasta 50 personas,Coyoacán,-99.164192,19.35742,https://www.teatrolacapilla.com/
+25,Teatro Rafael Solana,Teatro,Difusión,1991,1995,Sin información,Servicios,Abierto,Sin información,,,251 a 300 personas,Coyoacán,-99.1631717,19.34424433,No cuenta con ninguna red ni página
+26,Teatro Telón de Asfalto,Teatro,Difusión,1991,1995,Sin información,Sin información,Abierto,Sin información,,,Sin información,Benito Juárez,-99.181898,19.365861,https://www.facebook.com/telondeasfalto
+27,Teatro El Telón de Asfalto,Teatro,Difusión,1991,1995,Sin información,Servicios,Abierto,Sin información,,,151 a 200 personas,Benito Juárez,-99.181898,19.37005,"Teléfono: 5615-0598
+ www.telondeasfalto.com.mx
+ Correo: info@telondeasfalto.com.mx"
+28,Balcón huasteco,Música,Consumo,1991,1996,Sin información,Servicios,Cerrado permanentemente,Sin información,,,Sin información,Miguel Hidalgo,-99.16681605,19.44709476,Ya no existe el espacio 
+29,"Centro Cultural Sylvia Pasquel (Foro Claudia, Foro Nahui Ollin, Foro Vivi, Foro Sugar, Foro Virginia Woolf, Foro Aldanza, Foro Tacón dorado )",Artes escénicas,Difusión,1996,2000,Propio,Sin información,Abierto,Sin información,,,101 a150 personas,Cuauhtémoc,-99.176767,19.415671,"https://forosylviapasquel.com/inicio, https://www.facebook.com/foro.pasquel"
+30,Apeiron Teatro,Teatro,Difusión,1996,2000,Sin información,Sin información,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.152404,19.383076,https://www.facebook.com/apeironteatro
+31,Centro Cultural Roldán Sandoval,Teatro,Difusión,1996,2000,Propio,Sin información,Abierto,Sin información,,,51 a 100 personas,Miguel Hidalgo,-99.171741,19.400202,https://www.facebook.com/Centroculturalroldansandoval
+32,Circo Volador,Multidisciplina,Difusión,1996,2000,Comodato,Multisostenimiento,Abierto,Una clausura,,,Más de 350 personas,Venustiano Carranza,-99.125838,19.406171,https://www.facebook.com/CircoVoladorOficial
+33,Teatro Ofelia,Artes escénicas,Difusión,1996,2000,Sin información,Sin información,Abierto,Sin clausuras,,,251 a 300 personas,Miguel Hidalgo,-99.1827678,19.4371016,https://www.facebook.com/teatrofelia
+35,Café Jazzorca,Música,Difusión,1996,2000,Propio,Sin información,Abierto,Sin información,,,Hasta 50 personas,Benito Juárez,-99.139962,19.367792,https://www.facebook.com/Caf%C3%A9-Jazzorca-1410887459128065
+35,VD+,Otras disciplinas,Consumo,1996,2000,Sin información,Sin información,Cerrado permanentemente,Sin información,,,Sin información,Iztacalco,-99.123605,19.39602,Sin información
+36,Dada X,Música,Consumo,1996,2000,Rentado,Servicios,Abierto,Más de una,,,151 a 200 personas,Cuauhtémoc,-99.1539593,19.4237875,https://www.facebook.com/Dada-X-Club-106228472749970
+37,El Convite,Música,Consumo,1996,2000,Propio,Servicios,Abierto,Sin clausuras,,,Hasta 50 personas,Benito Juárez,-99.148639,19.362125,https://www.facebook.com/elConvite
+38,"Foro creación escénica
+Ágora academia de profesionalización actoral",Teatro,Formación,2001,2005,Rentado,Autogenerados,Abierto,Sin clausuras,,,Hasta 50 personas,Coyoacán,-99.1723829,19.3639788,https://www.facebook.com/agoraespacioartistico
+39,Karpa Demente,Artes vivas,Formación,2001,2005,Sin información,Multisostenimiento,Abierto,Sin clausuras,,,51 a 100 personas,Tlalpan,-99.18638,19.280035,http://www.cirkodemente.com.mx/
+40,Centro De la Diversidad Cultural Mèxico,Artes escénicas,Difusión,2001,2005,Sin información,Autogenerados,Abierto,Sin clausuras,,,51 a 100 personas,Cuauhtémoc,-99.1640044,19.4191112,http://diversidad.mx/ubicacion/#Contacto
+41,El Galerón,Multidisciplina,Difusión,2001,2005,Sin información,Sin información,Cerrado permanentemente,Sin información,,,101 a150 personas,Cuauhtémoc,-99.1464651,19.4394256,Sin información
+42,"Foro ""El Mundano""",Artes escénicas,Difusión,2001,2005,Rentado,Multisostenimiento,Cerrado permanentemente,Sin clausuras,,,151 a 200 personas,Cuauhtémoc,-99.141755,19.427179,https://www.facebook.com/ForoElMundano/
+43,La espalda de dios,Multidisciplina,Difusión,2001,2005,Rentado,Servicios,Cerrado permanentemente,Sin clausuras,,,Hasta 50 personas,Xochimilco,-99.0987245,19.2617262,Sin información
+44,Pasagüero,Música,Difusión,2001,2005,Rentado,Servicios,Abierto,Sin información,,,51 a 100 personas,Cuauhtémoc,-99.137598,19.432975,https://www.facebook.com/Pasaguero
+45,El 61 (Ruta 61),Música,Difusión,2001,2005,Sin información,Servicios,Abierto,Más de una,,,Hasta 50 personas,Cuauhtémoc,-99.136101,19.42413,https://www.facebook.com/El61BluesClub
+46,Teatro Bar el Vicio,Artes vivas,Difusión,2001,2005,Propio,Sin información,Abierto,Sin clausuras,,,51 a 100 personas,Coyoacán,-99.1641515,19.3574019,https://elvicio.com.mx/historia/
+47,Museo regional comunitario Cuitláhuac,Otras disciplinas,Difusión,2001,2005,Propio,Autogenerados,Abierto,Sin información,,,Sin información,Tláhuac,-99.003528,19.266944,https://www.facebook.com/museocuitlahuac
+48,Casa de Cultura Las Jarillas,Multidisciplina,Difusión,2001,2005,Propio,Sin información,Abierto,Sin clausuras,,,Hasta 50 personas,Iztacalco,-99.10991,19.397431,https://www.facebook.com/CasaDeCulturaLasJarillas
+49,Bar Berlín,Música,Consumo,2001,2005,Sin información,Servicios,Abierto,Sin información,,,Sin información,Benito Juárez,-99.179328,19.375298,https://www.facebook.com/BarBerlinInsurgentes/about/?ref=page_internal
+50,Black Horse,Música,Consumo,2001,2005,Rentado,Servicios,Cerrado permanentemente,Sin información,,,Sin información,Cuauhtémoc,-99.1753914322503,19.409501230619,https://www.facebook.com/blackhorsemexico
+51,Café El Patio,Música,Consumo,2001,2005,Sin información,Sin información,Abierto,Sin información,,,Sin información,Iztapalapa,-99.120803,19.366197,https://www.facebook.com/Caf%C3%A9-El-Patio-234499876624101
+52,Pata Negra,Artes vivas,Consumo,2001,2005,Sin información,Servicios,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.13557,19.434044,https://www.facebook.com/patanegrasalon
+53,Woko Taberna,Artes vivas,Consumo,2001,2005,Sin información,Sin información,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.172831,19.4093919,https://www.facebook.com/WokoComedyClub
+54,Centro Cultural Border,Otras disciplinas,Formación,2006,2010,Rentado,Multisostenimiento,Cerrado permanentemente,Una clausura,,,101 a150 personas,Cuauhtémoc,-99.156498,19.416664,http://www.border.com.mx/agencia/contacto
+55,El albergue del arte TADECO,Artes escénicas,Formación,2006,2010,Propio,Autogenerados,Abierto,Sin información,,,Hasta 50 personas,Coyoacán,-99.163426,19.346031,https://www.facebook.com/AlberguedelArte
+56,Foro Alternativo Espacio Abierto,Teatro,Formación,2006,2010,Sin información,Autogenerados,Abierto,Sin información,,,51 a 100 personas,Coyoacán,-99.1264308,19.3374194,Sin información
+57,Foro Cultural Goya,Otras disciplinas,Formación,2006,2010,Rentado,Multisostenimiento,Abierto,Sin clausuras,,,51 a 100 personas,Cuauhtémoc,-99.156891,19.42534,https://www.facebook.com/foroculturalgoya
+58,Foro Gante,Danza,Formación,2006,2010,Rentado,Autogenerados,Abierto,Sin información,,,Hasta 50 personas,Cuauhtémoc,-99.139734,19.432864,https://www.facebook.com/groups/ForoGante
+59,Foro La Cantera,Danza,Formación,2006,2010,Rentado,Multisostenimiento,Cerrado permanentemente,Sin clausuras,,,51 a 100 personas,Cuauhtémoc,-99.154204,19.437062,https://www.facebook.com/lacanteraestudiodedanza
+60,Foro Quetzalpilli,Artes escénicas,Formación,2006,2010,Comodato,Autogenerados,Abierto,Sin clausuras,,,51 a 100 personas,Iztapalapa,-99.043806,19.326944,https://www.facebook.com/Foro-Cultural-Quetzalpilli-549750135061071
+61,"La Nana, Fábrica de creación e innovación",Multidisciplina,Formación,2006,2010,Sin información,Sin información,Abierto,Sin clausuras,,,Sin información,Cuauhtémoc,-99.143049,19.4381296,https://www.facebook.com/lananaconarte
+62,Sala Cultural Tauro,Danza,Formación,2006,2010,Rentado,Servicios,Abierto,Sin clausuras,,,51 a 100 personas,Coyoacán,-99.161115,19.348538,http://www.tauroflamenco.org/
+63,Foro El Tinglado,Teatro,Formación,2006,2010,Sin información,Autogenerados,Cerrado permantentemente,Sin información,,,51 a 100 personas,Coyoacán,-99.1741,19.3495,Sin información
+64,Blue Monk Jazz Bistro,Música,Difusión,2006,2010,Sin información,Sin información,Cerrado permanentemente,Una clausura,,,Sin información,Miguel Hidalgo,-99.1776614,19.438967,https://www.facebook.com/bluemonkmexico
+65,Café 22,Artes vivas,Difusión,2006,2010,Sin información,Sin información,Cerrado permanentemente,Sin información,,,Hasta 50 personas,Cuauhtémoc,-99.1736215,19.4123055,Sin información
+66,CARADURA,Música,Difusión,2006,2010,Sin información,Servicios,Cerrado permanentemente,Sin información,,,51 a 100 personas,Cuauhtémoc,-99.1719681,19.412728,https://www.facebook.com/caraduramx
+67,Casa Galería,Otras disciplinas,Difusión,2006,2010,Prestado,Autogenerados,Sin información,Sin clausuras,,,301 a 350 personas,Coyoacán,-99.157569,19.3068911,Sin información
+68,Centro Cultural Macario Matus,Multidisciplina,Difusión,2006,2010,Sin información,Multisostenimiento,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.135636,19.450133,https://www.facebook.com/CentroCulturalMacarioMatus
+69,Cineclub Condesa DF,Otras disciplinas,Difusión,2006,2010,Sin información,Servicios,Abierto,Sin información,,,51 a 100 personas,Cuauhtémoc,-99.172074,19.416213,https://www.facebook.com/CineclubCondesadf
+70,Donceles 66,Otras disciplinas,Difusión,2006,2010,Prestado,Autogenerados,Sin información,Sin clausuras,,,51 a 100 personas,Cuauhtémoc,-99.135056,19.436417,Sin información
+71,El Cerrojo Centro Cultural,Artes vivas,Difusión,2006,2010,Rentado,Autogenerados,Cerrado permanentemente,Sin clausuras,,,51 a 100 personas,Cuauhtémoc,-99.145417,19.432076,https://www.facebook.com/cerrojo.producciones
+72,El círculo teatral,Multidisciplina,Difusión,2006,2010,Sin información,Servicios,Abierto,Sin información,,,51 a 100 personas,Cuauhtémoc,-99.172368,19.415937, Facebook:https://www.facebook.com/elcirculoteatral/
+73,Estación Indianilla Centro Cultural,Multidisciplina,Difusión,2006,2010,Sin información,Multisostenimiento,Abierto,Sin información,,,151 a 200 personas,Cuauhtémoc,-99.1505309,19.4228272,https://www.facebook.com/EstacionIndianilla
+74,Foro Quinto Piso,Multidisciplina,Difusión,2006,2010,Sin información,Sin información,Cerrado permanentemente,Sin información,,,51 a 100 personas,Cuauhtémoc,-99.134872,19.426855,foro5piso@hotmail.com/ https://albertoforoquintopis.wixsite.com/foroquintopiso / 5557091093
+75,Somos Voces,Multidisciplina,Difusión,2006,2010,Rentado,Servicios,Abierto,Sin clausuras,,,Hasta 50 personas,Cuauhtémoc,-99.163051,19.427288,https://www.facebook.com/SomosVocesMX
+76,Sótano Foro,Teatro,Difusión,2006,2010,Rentado,Multisostenimiento,Abierto,Sin clausuras,,,101 a150 personas,Miguel Hidalgo,-99.1682115,19.4447994,http://sotanoteatro.com/?fbclid=IwAR3AWEjpgOrfDOOvrhUfxnnsKneTqk2tZUIExtEbhhtNSkEra5zvzeixZLY
+77,Teatro Lúcido,Teatro,Difusión,2006,2010,Propio,Sin información,Cerrado permanentemente,Sin clausuras,,,Más de 350 personas,Miguel Hidalgo,-99.1846171,19.4066822,https://www.facebook.com/teatrolucido/
+78,Tlacuache Club,Teatro,Difusión,2006,2010,Rentado,Autogenerados,Abierto,Sin clausuras,,,Hasta 50 personas,Coyoacán,-99.174193,19.349502,https://www.facebook.com/TlacuacheTiteres/photos/?ref=page_internal
+79,Teatro Miquiztli Casa de Cultura,Teatro,Difusión,2006,2010,Sin información,Autogenerados,Abierto,Sin información,,,151 a 200 personas,Tláhuac,-98.966027,19.222967,https://www.facebook.com/TeatroMiquiztli1/
+80,Underground Paradise,Multidisciplina,Difusión,2006,2010,Sin información,Servicios,Abierto,Sin información,,,51 a 100 personas,Tláhuac,-99.022475,19.299186,https://www.facebook.com/undergroundparadisemx/
+81,Atea,Otras disciplinas,Difusión,2006,2010,Sin información,Sin información,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.12822412,19.42512309,"https://www.facebook.com/ateacdmx, http://ateacdmx.org/"
+82,Beer Hall,Artes vivas,Consumo,2006,2010,Sin información,Sin información,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.1731337,19.4201673,https://www.facebook.com/BeerHallMx
+83,Bhoga Café,Música,Consumo,2006,2010,Sin información,Sin información,Abierto,Sin información,,,Sin información,Iztapalapa,-99.0097821,19.3507676,https://www.facebook.com/Bhoga.cafe.mx
+84,Club Atlántico,Multidisciplina,Consumo,2006,2010,Sin información,Servicios,Cerrado permanentemente,Sin información,,,Más de 350 personas,Cuauhtémoc,-99.144293,19.43324,https://www.facebook.com/clubatlantico
+85,El Imperial,Música,Consumo,2006,2010,Sin información,Multisostenimiento,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.168516,19.416776,https://www.facebook.com/ElImperialClub
+86,Foro el centro de salud,Multidisciplina,Consumo,2006,2010,Sin información,Autogenerados,Abierto,Una clausura,,,Sin información,Cuauhtémoc,-99.163667,19.41625,https://www.facebook.com/COMUNIDAD.AUTOGESTIVA
+87,Hilvana,Música,Consumo,2006,2010,Rentado,Servicios,Abierto,Sin clausuras,,,Más de 350 personas,Cuauhtémoc,-99.150028,19.438332,https://www.facebook.com/foroculturalhilvana
+88,Locanda,Multidisciplina,Consumo,2006,2010,Sin información,Servicios,Cerrado permanentemente,Sin información,,,Sin información,Cuauhtémoc,-99.174505,19.41857,No existe ya la página
+89,Pizza Jazz,Música,Consumo,2006,2010,Rentado,Sin información,Abierto,Sin información,,,Hasta 50 personas,Benito Juárez,-99.141218,19.367839,https://www.facebook.com/groups/368619106483598/
+90,Soma Bar,Música,Consumo,2006,2010,Sin información,Servicios,Cerrado permanentemente,Sin información,,,Sin información,Cuauhtémoc,-99.165518,19.416956, soma.foro.bar@gmail.com
+91,Zinco Jazz Club,Música,Consumo,2006,2010,Sin información,Servicios,Abierto,Sin clausuras,,,Hasta 50 personas,Cuauhtémoc,-99.1371721,19.4339285,https://www.facebook.com/zincojazzcluboficial http://www.zincojazz.com/
+92,Broka Bistro,Música,Consumo,2006,2010,Sin información,Servicios,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.16003763,19.4157886545645,http://www.brokabistrot.com/
+93,Gran Teatro Moliere,Artes escénicas,Renta,2011,2015,Sin información,Servicios,Abierto,Sin clausuras,,,Más de 350 personas,Miguel Hidalgo,-99.20139,19.436709,https://www.facebook.com/Gran-Teatro-Moli%C3%A9re-721582557910834
+94,Foro Hangar,Multidisciplina,Renta,2011,2015,Rentado,Servicios,Cerrado permanentemente,Sin clausuras,,,Sin información,Cuauhtémoc,-99.18126581,19.3980476632723,https://www.facebook.com/forohangar
+95,Foro Morelos,Multidisciplina,Renta,2011,2015,Rentado,Servicios,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.15200452,19.4327421398758,https://www.facebook.com/foro.morelos76
+96,Arte3,Teatro,Formación,2011,2015,Sin información,Sin información,Abierto,Sin información,,,Sin información,Benito Juárez,-99.161436,19.386008,https://www.facebook.com/Arte3-379401495535102
+97,Casa de Artes y Circo Contemporáneo A.C,Artes vivas,Formación,2011,2015,Sin información,Servicios,Abierto,Sin información,,,Sin información,Coyoacán,-99.1549051,19.34944248,https://www.facebook.com/ArtesyCirco
+98,Centro Cultural ALIAC. Un espacio para el arte y la cultura,Otras disciplinas,Formación,2011,2015,Rentado,Multisostenimiento,Cerrrado permanentemente,Sin clausuras,,,51 a 100 personas,Cuauhtémoc,-99.137583,19.429889,https://www.facebook.com/Centro-ALIAC-366986636750217
+99,Centro Cultural Keren Tá Merced,Multidisciplina,Formación,2011,2015,Propio,Multisostenimiento,Abierto,Sin clausuras,,,Hasta 50 personas,Venustiano Carranza,-99.124076,19.425561,https://kerentamerced.wordpress.com/contacto/
+100,Centro de danza y acrobacia Cardoso,Danza,Formación,2011,2015,Sin información,Sin información,Sin información,Sin información,,,Sin información,Venustiano Carranza,-99.114694,19.417056,https://www.facebook.com/CDyACardoso
+101,Danzite Coffe Art Club,Artes escénicas,Formación,2011,2015,Rentado,Multisostenimiento,Abierto,Sin clausuras,,,51 a 100 personas,Coyoacán,-99.1637878,19.3454853,https://www.facebook.com/espacioculturaldanzite
+102,Foro Sunland,Danza,Formación,2011,2015,Rentado,Servicios,Abierto,Sin clausuras,,,Hasta 50 personas,Cuauhtémoc,-99.17029778,19.41754898,http://www.sunland.mx/ / 55 5589 0527
+103,Hojas de Té,Danza,Formación,2011,2015,Sin información,Servicios,Abierto,Sin clausuras,,,Hasta 50 personas,Cuauhtémoc,-99.16362,19.427743,https://www.facebook.com/hojasdetemx
+104,HPH Centro Cultural,Artes escénicas,Formación,2011,2015,Sin información,Servicios,Cerrado temporalmente,Sin información,,,Hasta 50 personas,Benito Juárez,-99.133319,19.391034,https://www.facebook.com/hphcentrocultural
+105,La Calaca Espacio Cultural,Multidisciplina,Formación,2011,2015,Rentado,Sin información,Abierto,Sin clausuras,,,Hasta 50 personas,Benito Juárez,-99.185692,19.387817,https://www.facebook.com/lacalacacultural
+106,La Cebada,Otras disciplinas,Formación,2011,2015,Sin información,Sin información,Suspensión,Sin clausuras,,,Sin información,Xochimilco,-99.1179226,19.2831226,https://www.facebook.com/lacebadaarteycomunidad
+107,Tonalá 66,Multidisciplina,Formación,2011,2010,Sin información,Sin información, Cerrado temporalmente el FORO,Sin información,,,Sin información,Cuauhtémoc,-99.162673,19.418651,"http://www.tonala66.com/ https://www.facebook.com/Tonal%C3%A1-66-862956237091538/?ref=page_internal
+55 5207 4139
+contacto@tonala66.com"
+108,Centro profesional de la danza,Danza,Formación,2011,2015,Sin información,Multisostenimiento,Abierto,Sin clausuras,,,51 a 100 personas,Cuauhtémoc,-99.099573,19.497138,https://www.facebook.com/CentroProfesionalDeLaDanza
+109,Fundación culturato,Artes vivas,Formación,2011,2015,Sin información,Multisostenimiento,Abierto,Sin información,,,Hasta 50 personas,Gustavo A. Madero,-99.092131,19.471088,https://www.facebook.com/culturatoac
+110,Casa de Cultura Imaginarte,Multidisciplina,Formación,2011,2015,Sin información,Sin información,Abierto,Sin información,,,Sin información,Iztapalapa,-99.03129785,19.337794352187,https://www.facebook.com/casaculturaimaginarte
+111,Capijazz Morelia,Música,Difusión,2011,2015,Sin información,Sin información,Cerrado permanentemente,Sin información,,,Sin información,Cuauhtémoc,-99.1554249,19.421669,https://www.facebook.com/CapiJazz
+112,Cine Tonalá,Multidisciplina,Difusión,2011,2015,Sin información,Servicios,Abierto,Sin información,,,51 a 100 personas,Cuauhtémoc,-99.1605578,19.4089399,https://www.facebook.com/cinetonala
+113,Artería,Artes escénicas,Difusión,2011,2015,Sin información,Sin información,Cerrado permanentemente,Una clausura,,,151 a 200 personas,Cuauhtémoc,-99.1577826,19.4339654,Ya no existe el espacio 
+114,Bucareli 69 Casa de Artes,Multidisciplina,Difusión,2011,2015,Prestado,Autogenerados,Sin información,Sin clausuras,,,Hasta 50 personas,Cuauhtémoc,-99.1515177,19.4314117,https://www.facebook.com/Bucareli69
+115,Casa Actum,Teatro,Difusión,2011,2015,Rentado,Autogenerados,Cerrado permanentemente,Sin clausuras,,,51 a 100 personas,Coyoacán,-99.146764,19.350778,Sin información
+116,Casa de la sal Cafebrería teatral,Teatro,Difusión,2011,2015,Rentado,Sin información,Sin información,Sin información,,,51 a 100 personas,Iztacalco,-99.110626,19.392511,https://www.facebook.com/CafebreriaTeatralCasaDeLaSal
+117,Casa Maauad,Otras disciplinas,Difusión,2011,2015,Propio,Autogenerados,Cerrado permanentemente,Sin información,,,Sin información,Cuauhtémoc,-99.1616911,19.441168,Sin información
+118,Centro Cultural Carretera 45 Teatro,Teatro,Difusión,2011,2015,Rentado,Multisostenimiento,Abierto,Sin clausuras,,,Hasta 50 personas,Cuauhtémoc,-99.137097,19.416875,https://www.facebook.com/Carretera45Teatro
+119,Clavería 22,Multidisciplina,Difusión,2011,2015,Sin información,Sin información,Abierto,Dos clausuras,,,Sin información,Azcapotzalco,-99.187069,19.465749,http://www.claveria22.com/
+120,Dos quince Galería,Multidisciplina,Difusión,2011,2015,Sin información,Sin información,Sin información,Sin información,,,Sin información,Cuauhtémoc,-99.164093,19.415846,galeria.dosquince@gmail.com
+121,El 77 Centro Cultural Autogestivo,Multidisciplina,Difusión,2011,2015,Comodato,Autogenerados,Abierto,Sin clausuras,,,Hasta 50 personas,Cuauhtémoc,-99.154167,19.428861,https://www.facebook.com/el77cca
+122,El beneficio de abajo,Multidisciplina,Difusión,2011,2015,Sin información,Servicios,Abierto,Sin clausuras,,,Hasta 50 personas,Cuauhtémoc,-99.164136,19.419331,https://www.facebook.com/elbeneficiodeabajo /
+123,Espacio Teatral MH-35,Teatro,Difusión,2011,2015,Rentado,Multisostenimiento,Abierto,Sin clausuras,,,101 a150 personas,Cuauhtémoc,-99.1363611,19.4407234,https://www.facebook.com/mh35teatro
+124,Foro 37,Artes vivas,Difusión,2011,2015,Rentado,Autogenerados,Cerrado permanentemente,Sin clausuras,,,Hasta 50 personas,Cuauhtémoc,-99.159352,19.427709,https://www.facebook.com/foro37
+125,Foro El Cubo,Artes escénicas,Difusión,2011,2015,Rentado,Autogenerados,Abierto,Sin información,,,Hasta 50 personas,Benito Juárez,-99.164521,19.400145,https://www.facebook.com/ForoelCubo2015
+126,Foro el Tintero de los Ironistas,Teatro,Difusión,2011,2015,Sin información,Sin información,Cerrado permanentemente,Sin información,,,Sin información,Benito Juárez,-99.1571696,19.3869141,https://www.facebook.com/TinteroDeLosIronistas
+127,Foro Indie Rocks,Música,Difusión,2011,2015,Rentado,Servicios,Abierto,Sin información,,,Más de 350 personas,Cuauhtémoc,-99.1562616,19.4167181,https://www.facebook.com/foroindierocks
+128,Foro Lucerna,Teatro,Difusión,2011,2015,Propio,Servicios,Abierto,Sin información,,,101 a150 personas,Cuauhtémoc,-99.156743,19.430028,https://www.facebook.com/pages/Foro%20Lucerna/1891472054425691/
+129,Foro Off Spring,Teatro,Difusión,2011,2015,Rentado,Multisostenimiento,Abierto,Sin clausuras,,,251 a 300 personas,Cuauhtémoc,-99.162121,19.43849,https://www.facebook.com/Foro-Off-Spring-141522479333254
+130,Foro Petit Comité (Casa del Cine),Otras disciplinas,Difusión,2011,2015,Sin información,Autogenerados,Abierto,Sin información,,,Hasta 50 personas,Cuauhtémoc,-99.1375823,19.4308381,https://www.facebook.com/casadelcine
+131,Foro Reyna Barrera (Dentro del Espacio Universitario de Cultura Off Spring),Teatro,Difusión,2011,2015,Rentado,Servicios,Abierto,Sin clausuras,,,251 a 300 personas,Cuauhtémoc,-99.1621198,19.4384892,https://www.facebook.com/Foro-Reyna-Barrera-501705596540473
+132,Garros Galeria,Otras disciplinas,Difusión,2011,2015,Sin información,Sin información,Cerrado permanentemente,Sin información,,,Sin información,Cuauhtémoc,-99.160317,19.41749,Sin información
+133,Interior 7,Teatro,Difusión,2011,2015,Sin información,Sin información,Cerrado permanentemente,Sin información,,,Sin información,Cuauhtémoc,-99.1739871,19.4295925,https://www.facebook.com/pages/Interior%207/104287686609368/
+134,Ku Colectivo,Otras disciplinas,Difusión,2011,2015,Sin información,Sin información,Cerrado permanentemente,Sin información,,,Sin información,Cuauhtémoc,-99.169978,19.413123,"Raquel Miserachi, kucolectivo@gmail.com https://twitter.com/kucolectivo"
+135,La Teatrería,Teatro,Difusión,2011,2015,Sin información,Autogenerados,Abierto,Una clausura,,,101 a150 personas,Cuauhtémoc,-99.1593643,19.4190346,https://www.lateatreria.com/index.php Teléfono: 55 5207 3234
+136,LAB TRECE,Teatro,Difusión,2011,2015,Sin información,Sin información,Cerrado permanentemente,Sin información,,,51 a 100 personas,Cuauhtémoc,-99.136354,19.43463,https://www.facebook.com/LABtrece
+137,Laberinto Cultural SantaMA,Multidisciplina,Difusión,2011,2015,Rentado,Multisostenimiento,Cerrado permanentemente,Sin clausuras,,,51 a 100 personas,Cuauhtémoc,-99.1566378,19.4539234,https://www.facebook.com/LaberintoCulturalSantama
+138,Microteatro México,Teatro,Difusión,2011,-2015,Sin información,Servicios,Cerrado temporalmente,Sin clausuras,,,Hasta 50 personas,Cuauhtémoc,-99.1537692,19.4458544,https://www.facebook.com/MicroteatroMexico
+139,Sala de teatro “Así que pasen cinco años”,Teatro,Difusión,2011,2015,Sin información,Autogenerados,Abierto,Sin clausuras,,,Hasta 50 personas,Cuauhtémoc,-99.167698,19.415264,https://www.facebook.com/SaladeteatroA5A
+140,Sala Marlowe,Teatro,Difusión,2011,2015,Propio,Multisostenimiento,Abierto,Una clausura,,,Hasta 50 personas,Cuauhtémoc,-99.178333,19.416467,https://www.facebook.com/Salamarlowe
+141,Segunda sección del Museo del Juguete Antiguo México,Música,Difusión,2011,2015,Sin información,Sin información,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.144512,19.415526,https://www.facebook.com/museodeljuguete
+142,Teatro Emilliere,Teatro,Difusión,2011,2015,Sin información,Sin información,Abierto,Sin información,,,Sin información,Benito Juárez,-99.1455298,19.3917225,https://www.facebook.com/PhtEmilliere
+143,Terraza Monstruo Impro,Música,Difusión,2011,2015,Rentado,Sin información,Cerrado permanentemente,Sin información,,,Hasta 50 personas,Cuauhtémoc,-99.146976,19.428079,https://www.facebook.com/pages/Terraza%20Monstruos/2228061080764148/
+144,Traspatio Escénico (Dentro de ILM Concept Store),Artes escénicas,Difusión,2011,2015,Sin información,Sin información,Cerrado temporalmente,Sin información,,,Hasta 50 personas,Cuauhtémoc,-99.175008,19.405329,https://www.facebook.com/traspatioescenico.mexico
+145,Espacio Cultural La Bóveda,Multidisciplina,Difusión,2011,2015,Propio,Sin información,Cerrado permanentemente,Sin clausuras,,,Hasta 50 personas,Xochimilco,-99.14135907,19.2735963650094,https://www.facebook.com/Espacio-Cultural-La-B%C3%B3veda-377920542310808 TELÉFONO 5513302935
+146,Foro Piedra de Sol,Danza,Difusión,2011,2015,Sin información,Multisostenimiento,Abierto,Sin información,,,Hasta 50 personas,Azcapotzalco,-99.203681,19.501085,"http://www.foropiedradesol.com/ 55 5318 8120
+ 55 5318 8120"
+147,Módulo Multidisciplinario Cuchilla del Tesoro,Multidisciplina,Difusión,2011,2015,Sin información,Servicios,Abierto,Sin clausuras,,,151 a 200 personas,Gustavo A. Madero,-99.059442,19.449398,https://www.facebook.com/Promoci%C3%B3n-Cultural-cuchillacom-104072991302613
+148,Foro Los Arcos,Teatro,Difusión,2011,2015,Rentado,Sin información,Cerrado permanentemente,Sin clausuras,,,101 a150 personas,Iztapalapa,-99.018861,19.372889,https://www.facebook.com/forolosarcos
+149,Departamento,Música,Difusión,2011,2015,Sin información,Sin información,Cerrado temporalmente,Sin información,,,Hasta 50 personas,Cuauhtémoc,-99.16185929,19.41774274704,http://departamento.tv/
+150,JamJazz,Música,Difusión,2011,2015,Sin información,Sin información,Cerrado permanentemente,Sin información,,,Hasta 50 personas,Coyoacán,-99.18202863,19.340867,https://www.facebook.com/Jamjazzmx/photos/?ref=page_internal
+151,Foro Textual,Otras disciplinas,Difusión,2011,2015,Sin información,Sin información,Abierto,Sin información,,,Hasta 50 personas,Miguel Hidalgo,-99.195065,19.409826,https://www.facebook.com/ForoTEXTUAL/
+152,Pan y Circo,Artes escénicas,Consumo,2011,2015,Rentado,Servicios,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.1621227,19.4176007,https://www.facebook.com/panycircomxdf
+153,Bucardón,Otras disciplinas,Consumo,2011,2015,Sin información,Servicios,Cerrado permanentemente,Sin información,,,Sin información,Cuauhtémoc,-99.1508997,19.4334995,https://www.facebook.com/bucardon1
+154,Casa Franca,Música,Consumo,2011,2015,Sin información,Servicios,Abierto,Sin clausuras,,,101 a150 personas,Cuauhtémoc,-99.157551,19.41908,https://www.facebook.com/Lacasamerida109
+155,Central Funk,Música,Consumo,2011,2015,Sin información,Servicios,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.1324697,19.4265959,https://www.facebook.com/centralfunkmx
+156,Fatcrow,Artes vivas,Consumo,2011,2015,Sin información,Sin información,Abierto,Sin información,,,101 a150 personas,Miguel Hidalgo,-99.2033164,19.4390158,https://www.facebook.com/fatcrowbar 
+157,Jazz Place,Música,Consumo,2011,2015,Sin información,Sin información,Cerrado temporalmente,Sin información,,,Sin información,Miguel Hidalgo,-99.1711897,19.4353061,https://www.facebook.com/TheJazzPlace/
+158,Metal Rose Kafé,Música,Consumo,2011,2015,Sin información,Sin información,Abierto,Sin información,,,Sin información,Xochimilco,-99.118903,19.228859,https://www.facebook.com/MetalRoseKafee
+159,Parker & Lenox,Música,Consumo,2011,2015,Rentado,Servicios,Abierto,Sin información,,,101 a150 personas,Cuauhtémoc,-99.156415,19.43082,https://parkerandlenox.live/?fbclid=IwAR1L2oBr9mgCzAQ5AOa5zIyIptYzdVMuswrWCVo4jTvApnpBqGrlcHnoRCQ
+160,"Punto Gozadera, La Gozadera",Multidisciplina,Consumo,2011,2015,Rentado,Servicios,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.143731,19.429837,https://www.facebook.com/PuntoGozadera
+161,Foro Roma Condesa,Música,Consumo,2011,2015,Sin información,Servicios,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.15985433,19.4120057651803,forosromacondesa@gmail.com
+162,Multiforo Bajo Circuito,Música,Consumo,2011,2015,Sin información,Servicios,Abierto,Sin información,,,251 a 300 personas,Cuauhtémoc,-99.17929746,19.4162885296322,https://www.facebook.com/forobajocircuito
+163,Foro Vienna,Artes vivas,Consumo,2011,2015,Sin información,Servicios,Cerrado temporalmente,Sin clausuras,,,201 a 250 personas,Coyoacán,-99.16336797,19.3569456341828,http://www.foroviena.mx/
+164,Arte 206,Multidisciplina,Renta,2016,2020,Sin información,Servicios,Abierto,Sin información,,,Hasta 50 personas,Cuauhtémoc,-99.13685663,19.4360531602658,De espacio Cerrojo dProducciones http://laboratoriocreativo.mx/
+165,AGS MUSIC SCHOOL,Música,Formación,2016,2020,Sin información,Servicios,Abierto,Sin información,,,Sin información,Álvaro Obregón,-99.199822,19.366361,https://www.facebook.com/AGSMusicSchool
+166,Casa del Humor,Artes vivas,Formación,2016,2020,Sin información,Servicios,Abierto,Sin información,,,Hasta 50 personas,Miguel Hidalgo,-99.18517873,19.4128037781113,www.casadelhumor.com
+167,Art House Teatro,Teatro,Difusión,2016,2020,Propio,Sin información,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.15554,19.411958,"http://www.arthousemexico.com/
+ 55 5564 7345"
+168,Bandini Espacio Cultural,Multidisciplina,Difusión,2016,2020,Sin información,Servicios,Cerrado permanentemente,Sin información,,,Hasta 50 personas,Cuauhtémoc,-99.1515177,19.4314117,https://www.facebook.com/bandiniespaciocultural
+169,Café K-OZ Foro Cultural,Artes escénicas,Difusión,2016,2020,Sin información,Sin información,Abierto,Sin información,,,Hasta 50 personas,Miguel Hidalgo,-99.202514,19.436501,https://www.facebook.com/cafekozforo 
+170,Collective Mooi,Música,Difusión,2016,2020,Rentado,Servicios,Sin informaciòn,Sin información,,,201 a 250 personas,Cuauhtémoc,-99.146331,19.423122,info@mooicollective.com
+171,Foro Bizarro,Música,Difusión,2016,2020,Sin información,Servicios,Abierto,Sin clausuras,,,101 a150 personas,Cuauhtémoc,-99.1669119,19.416617,https://www.facebook.com/Foro-Bizarro-239047296441934
+172,Foro El Mictlán,Multidisciplina,Difusión,2016,2020,Sin información,Multisostenimiento,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.141205,19.41634,https://www.facebook.com/ForoelMictlan
+173,Foro Elefante,Multidisciplina,Difusión,2016,2020,Sin información,Sin información,Abierto,Sin información,,,Sin información,Tlalpan,-99.194369,19.286701,https://www.facebook.com/cempoaelefante
+174,Foro La Cura,Teatro,Difusión,2016,2020,Rentado,Autogenerados,Abierto,Sin clausuras,,,51 a 100 personas,Iztacalco,-99.133858,19.399188,https://www.facebook.com/forolacura
+175,Foro La Nabe,Artes escénicas,Difusión,2016,2020,Sin información,Sin información,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.160466,19.406636,https://www.facebook.com/forolanabe
+176,Foro Viena,Artes escénicas,Difusión,2016,2020,Sin información,Servicios,Abierto,Sin información,,,201 a 250 personas,Coyoacán,-99.163393,19.356799,5521559308/ forovienamx@gmail.com
+177,Galería Tu mamá,Otras disciplinas,Difusión,2016,2020,Propio,Autogenerados,Cerrado permanentemente,Sin clausuras,,,Hasta 50 personas,Xochimilco,-99.1011087,19.2661055,Ya no existe el espacio 
+178,Casa Tomada,Otras disciplinas,Difusión,2016,2020,Propio,Servicios,Abierto,Sin información,,,Hasta 50 personas,Cuauhtémoc,-99.17891052,19.41290062,https://www.facebook.com/casatomadamx
+179,La Titería,Teatro,Difusión,2016,2020,Sin información,Servicios,Abierto,Sin clausuras,,,201 a 250 personas,Coyoacán,-99.164895,19.352236,https://www.latiteria.mx/
+180,Monterrey Dos3Dos,Artes escénicas,Difusión,2016,2020,Rentado,Sin información,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.162416,19.411602,Sin información
+181,Raíces Centro Cultural,Multidisciplina,Difusión,2016,2020,Rentado,Servicios,Abierto,Sin clausuras,,,Hasta 50 personas,Iztapalapa,-99.138373,19.363266,"somos@raicescentrocultural.com
+https://www.raicescentrocultural.com/"
+182,Teatro Arlequin,Teatro,Difusión,2016,2020,Sin información,Sin información,Cerrado temporalmente,Sin información,,,Sin información,Cuauhtémoc,-99.160364,19.431973,https://www.facebook.com/teatroarlequinMX
+183,Teatro Bellescense,Artes vivas,Difusión,2016,2020,Rentado,Servicios,Abierto,Sin información,,,51 a 100 personas,Benito Juárez,-99.147827,19.397882,https://www.facebook.com/ForoBellescene/ socialbellescene@gmail.com
+184,Teatro El Milagro,Teatro,Difusión,2016,2020,Sin información,Multisostenimiento,Abierto,Sin clausuras,,,51 a 100 personas,Cuauhtémoc,-99.1564838,19.4304007,https://www.facebook.com/TeatroElMilagro
+185,Teatro en Corto,Teatro,Difusión,2016,2020,Propio,Servicios,Abierto,Sin información,,,Sin información,Benito Juárez,-99.1730397,19.3963123,https://www.facebook.com/TeatroEnCorto
+186,Teatro en Corto Coyoacán,Teatro,Difusión,2016,2020,Rentado,Servicios,Cerrado temporalmente,Sin clausuras,,,Hasta 50 personas,Coyoacán,-99.159299,19.350752,https://www.facebook.com/TeatroEnCorto
+187,Teatro Milán,Teatro,Difusión,2016,2020,Sin información,Servicios,Abierto,Sin clausuras,,,51 a 100 personas,Cuauhtémoc,-99.154591,19.452354,https://www.facebook.com/TeatroMilanForoLucerna
+188,Terminal Coyoacán,Multidisciplina,Difusión,2016,2020,Propio,Autogenerados,Abierto,Sin clausuras,,,Hasta 50 personas,Coyoacán,-99.1728068,19.3479253,https://www.terminalcoyoacanradio.com/?fbclid=IwAR3N_juRLsZQDG-s4iZ1Q7qDMpYXfePUuWs6UfDebLn_HVM6TVcyoNUOyz0
+189,Youkaly Cabaret,Artes vivas,Difusión,2016,2020,Sin información,Multisostenimiento,Cerrado temporalmente,Sin información,,,Hasta 50 personas,Cuauhtémoc,-99.1648728,19.4246497,https://www.facebook.com/youkalicabaret
+190,Corral de Comedias De La Ciudad De México,Teatro,Difusión,2016,2020,Propio,Servicios,Abierto,Sin clausuras,,,Sin información,Cuauhtémoc,-99.15233,19.427428,https://www.facebook.com/corraldecomediascdmx
+191,Casa Rebozo,Multidisciplina,Difusión,2016,2020,Sin información,Sin información,Sin informaciòn,Sin información,,,Sin información,Gustavo A. Madero,-99.113198,19.481448,https://www.facebook.com/claveriaXXII/?ref=page_internal
+192,Foro La Santa Cruz,Teatro,Difusión,2016,2020,Sin información,Sin información,Cerrado temporalmente,Sin información,,,Hasta 50 personas,Gustavo A. Madero,-99.116408,19.458712,https://www.facebook.com/forolasantacruz/
+193,Foro Escena Cafetería,Teatro,Difusión,2016,2020,Sin información,Sin información,Abierto,Sin información,,,Sin información,Cuajimalpa,-99.285699,19.376537,https://www.facebook.com/foroescenacafeteria/
+194,Káosz Studio,Danza,Difusión,2016,2020,Sin información,Servicios,Cerrado permanentemente,Sin información,,,Sin información,Cuauhtémoc,-99.119905,19.291332,https://www.facebook.com/KaoszStudio
+195,Casa Esmeralda,Danza,Difusión,2016,2020,Sin información,Servicios,Abierto,Sin información,,,Sin información,Gustavo A. Madero,-99.086311,19.485489,https://www.facebook.com/casaesmeralda92/
+196,Casa Isa,Multidisciplina,Difusión,2016,2020,Sin información,Servicios,Cerrado permanentemente,Sin información,,,Hasta 50 personas,Tlalpan,-99.145786,19.293061,https://www.facebook.com/casaisaEMCS/
+197,Colectivo Cultural Rescate Barrial,Multidisciplina,Difusión,2016,2020,Sin información,Servicios,Abierto,Sin información,,,51 a 100 personas,Cuauhtémoc,-99.248902,19.316288,https://www.facebook.com/Colectivo-Cultural-Rescate-Barrial-502366903141121
+198,Centro Cultural El Hormiguero,Teatro,Difusión,2016,2020,Rentado,Autogenerados,Abierto,Sin clausuras,,,51 a 100 personas,Benito Juárez,-99.16851195,19.3701398,https://www.elhormiguero.mx/
+199,Foro Juana Cata,Teatro,Difusión,2016,2020,Rentado,Sin información,Abierto,Sin clausuras,,,Hasta 50 personas,Cuauhtémoco,-99.155977,19.43579, www.juanacata.mx
+200,Casa Abandonada,Teatro,Difusión,2016,2020,Sin información,Sin información,Cerrado permanentemente,Sin información,,,Hasta 50 personas,Benito Juárez,-99.158175,19.390651,Sin información
+201,316 Centro,Música,Difusión,2016,2020,Sin información,Servicios,Abierto,Sin información,,,51 a 100 personas,Cuauthémoc,-99.12879803,19.4235623601878,https://www.facebook.com/316centro
+202,Salón No,Música,Difusión,2016,2020,Sin información,Servicios,Abierto,Sin información,,,51 a 100 personas,Álvaro Obregón,-99.19058242,19.3478788601044,https://salonno.xyz/?fbclid=IwAR2siXswURwG_nD-BZU4edZ-9pbGYMEADm8T5J1lPByQAGaGS2rPvJJ7b9A
+203,Foro al Aire libre,Artes escénicas,Difusión,2016,2020,Sin información,Sin información,Abierto,Sin información,,,51 a 100 personas,Coyoacán,-99.17850615,19.3457080404035,https://www.airelibrecoyoacan.com/
+204,C10 Canta-Bar-Lounge,Música,Consumo,2016,2020,Sin información,Sin información,Sin información,Una clausura,,,Sin información,Iztapalapa,-99.0702821,19.383905,Sin informaciòn
+205,Cervecería y parrilla La Clande Shoteria,Música,Consumo,2016,2020,Sin información,Servicios,Abierto,Sin información,,,Sin información,Iztapalapa,-99.095458,19.321869,https://www.facebook.com/LaClandeShoteria/?ref=page_internal
+206,Crescendo,Música,Consumo,2016,2020,Rentado,Servicios,Abierto,Sin información,,,Hasta 50 personas,Coyoacan,-99.15089,19.347138,https://www.facebook.com/CrescendoCafe
+207,Crisanta,Música,Consumo,2016,2020,Rentado,Servicios,Sin información,Sin clausuras,,,151 a 200 personas,Cuauhtémoc,-99.156361,19.39675,https://www.facebook.com/crisantacerveceria
+208,Culebra Foro,Música,Consumo,2016,2020,Sin información,Sin información,Cerrado permanentemente,Sin información,,,Sin información,Cuauhtémoc,-99.171973,19.411853,https://www.facebook.com/ForoCulebra
+209,Distrito Urbano CDMX,Música,Consumo,2016,2020,Sin información,Sin información,Abierto,Sin información,,,Más de 350 personas,Cuauhtémoc,-99.136286,19.434346,https://www.facebook.com/Distrito-Urbano-CDMX-100591158353957
+210,HDX Circus Bar,Artes escénicas,Consumo,2016,2020,Sin información,Servicios,Abierto,Sin información,,,Sin información,Azcapotzalco,-99.175275,19.468927,https://www.facebook.com/HDXCircusBar
+211,Ikal Bej,Multidisciplina,Consumo,2016,2020,Rentado,Servicios,Cerrado temporalmente,Sin clausuras,,,51 a 100 personas,Venustiano Carranza,-99.090703,19.410516,https://www.facebook.com/IkalBej.comunidadyarte
+212,Tenxokotl,Música,Consumo,2016,2020,Sin información,Servicios,Abierto,Sin información,,,Hasta 50 personas,Cuauhtémoc,-99.1515177,19.4314117,https://www.facebook.com/tenxokotl tenxokotlcultura@gmail.com
+213,Chapata Vive Café,Multidisciplina,Consumo,2016,2020,Rentado,Servicios,Abierto,Sin clausuras,,,Hasta 50 personas,Benito Juárez,-99.154807,19.396847,Sin información
+214,Café Minuet,Música,Consumo,2016,2020,Rentado,Servicios,Abierto,Sin información,,,Hasta 50 personas,Xochimilco,-99.097572,19.233785,https://www.facebook.com/Caf%C3%A9-Minuet-1862632160663876
+215,The AntiTapRoom,Multidisciplina,Consumo,2016,2020,Sin información,Servicios,Abierto,Sin información,,,201 a 250 personas,Benito Juárez,-99.14720314,19.3619343176994,https://www.antitaproom.com/
+216,American Club Social,Multidisciplina,Consumo,2016,2020,Rentado,Servicios,Cerrado permantentemente,Sin información,,,Sin información,Cuauhtémoc,-99.15515175,19.4297126258081,https://www.facebook.com/TamboreoMX
+217,Coffe and Jazz Lindavista,Música,Consumo,2016,2020,Sin información,Servicios,Abierto,Sin información,,,51 a 100 personas,Gustavo A. Madero,-99.12593373,19.4906186254955,https://www.facebook.com/coffeandjazzlindavista
+218,Okupa Casa Refugio,Multidisciplina,Social,,,Sin información,Sin información,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.13652018,19.4376060164599,Sin información
+219,Bodega Sabino,Música,Sin información,,,Sin información,Sin información,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.1588737,19.4573974,Sin página
+220,Casa Foro Mérida,Multidisciplina,Sin información,,,Sin información,Sin información,Cerrado permanentemente,Sin información,,,Sin información,Cuauhtémoc,-99.156516,19.415834,Sin información
+221,Komplejo Kultural centro cultural y ecológico,Sin información,Sin información,,,Sin información,Sin información,Sin información,Sin información,,,Sin información,Iztacalco,,,Sin información
+222,Casa de arte y cultura Romero Rubio,Multidisciplina,Formación,,,Sin información,Sin información,Sin informaciòn,Sin información,,,Sin información,Venustiano Carranza,-99.09705,19.442402,https://www.facebook.com/Casa-de-Arte-y-Cultura-Romero-Rubio-657023521103898
+223,Hamama studio,Danza,Formación,,,Sin información,Sin información,Abierto,Sin información,,,Sin información,Venustiano Carranza,-99.105259,19.421071,Sin información
+224,Centro Cultural El Semillero,Artes escénicas,Formación,,,Sin información,Sin información,Abierto,Sin información,,,Sin información,Álvaro Obregón,-99.205489,19.341405,https://www.facebook.com/elsemilleroarteycultura
+225,Foro 76,Teatro,Formación,,,Sin información,Servicios,Cerrado temporalmente,Sin información,,,Sin información,Tlapan,-99113868,19.29799,https://www.facebook.com/foro76
+226,Multi foro El Taller,Artes escénicas,Formación,,,Sin información,Sin información,Abierto,Sin información,,,Sin información,Gustavo A. Madero,-99.072929,19.453614,https://www.facebook.com/aulaeltaller
+227,Hacklab La Chinampa,Otras disciplinas,Formación,,,Sin información,Autogenerados,Abierto,Sin información,,,Sin información,Tláhuac,-99.00726,19.273155,https://insubordinadas.com/la-chinampa/?fbclid=IwAR0_xPfTJebuu4AQ15P0HHvrgl0-Hf0L2-zZx-As0IY15CHFVMCh_ozOSec
+228,Ceres Cultura,Otras disciplinas,Difusión,,,Sin información,Sin información,Abierto,Sin información,,,Sin información,Gustavo A. Madero,-99.101328,19.487125,https://www.facebook.com/ceres.cultura
+229,Casa de Mora,Artes vivas,Difusión,,,Sin información,Sin información,Cerrado permanentemente,Una clausura,,,Sin información,Cuauhtémoc,-99.1604522,19.4090076,Sin informacióm
+230,Casa KatDragon,Teatro,Difusión,,,Sin información,Sin información,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.145659,19.429508,"https://www.facebook.com/CasaKatDragon/, 
+ http://www.talentokatz.com/
+ 55 2304 6487"
+231,El cuartel,Música,Difusión,,,Sin información,Sin información,Cerrado permanentemente,Una clausura,,,Sin información,Cuauhtémoc,-99.151008,19.431351,Sin información
+232,El Forito de Coapa,Teatro,Difusión,,,Propio,Multisostenimiento,Abierto,Sin información,,,101 a150 personas,Coyoacán,-99.109838,19.299922,Teléfono: 55 42 82 43 10/ Facebook: https://www.facebook.com/TeatroElForitoDeCoapa/?ref=page_internal
+233,Espacio Alternativo Atelier,Artes escénicas,Difusión,,,Sin información,Sin información,Sin información,Sin información,,,Sin información,Benito Juárez,-99.136652,19.393202,Sin información
+234,Foro del Centro de Atención Psicológica Fortaleza A.C.,Multidisciplina,Difusión,,,Sin información,Autogenerados,Abierto,Sin información,,,Sin información,Iztacalco,-99.091554,19.387747,Sin información
+235,Foro Disonante,Música,Difusión,,,Rentado,Servicios,Abierto,Sin información,,,Sin información,Iztapalapa,-99.119048,19.356194,https://www.facebook.com/Foro-Disonante-1600155393627811
+236,Foro Doméstico,Teatro,Difusión,,,Sin información,Multisostenimiento,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.171659,19.412268,https://www.facebook.com/DomesticoMX
+237,Foro El Bicho,Teatro,Difusión,,,Sin información,Sin información,Cerrado permanentemente,Sin información,,,51 a 100 personas,Cuauhtémoc,-99.164085,19.4188981,Sin información
+238,Foro el incidente,Teatro,Difusión,,,Sin información,Sin información,Cerrado permanentemente,Sin información,,,Sin información,Miguel Hidalgo,-99.173287,19.402852,Sin información
+239,Foro KultivARTE,Artes escénicas,Difusión,,,Sin información,Sin información,Abierto,Sin información,,,Sin información,Iztapalapa,-99.0953708,19.32026084,https://www.facebook.com/Kultivarte
+240,Foro la Escafandra,Multidisciplina,Difusión,,,Sin información,Multisostenimiento,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.164172,19.412178,https://www.facebook.com/ForoLaEscafandra
+241,Foro la Herida,Multidisciplina,Difusión,,,Rentado,Multisostenimiento,Cerrado permanentemente,Sin información,,,Sin información,Cuauhtémoc,-99.1383105,19.4343804,https://www.facebook.com/profile.php?id=100009248931133
+242,Foro Malaquías,Música,Difusión,,,Rentado,Sin información,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.152176,19.426082,https://twitter.com/HostelMalaquias/with_replies https://www.instagram.com/foromalaquias/?hl=es 
+243,Foro Manrique Ferrer,Teatro,Difusión,,,Sin información,Servicios,Cerrado permanentemente,Sin información,,,Sin información,Cuauhtémoc,-99.149851,19.433144,contacto@manriqueferrer.com.mx / 55 6838 5864
+244,Foro Standopados,Artes escénicas,Difusión,,,Sin información,Sin información,Cerrado permanentemente,Sin información,,,Sin información,Coyoacan,-99.1503942,19.3512602,Sin información
+245,JamJazz,Música,Difusión,,,Sin información,Sin información,Abierto,Abierto,,,Sin información,Coyoacán,-99.182008,19.340867,https://www.facebook.com/Jamjazzmx
+246,Laboratorio actoral latino,Teatro,Difusión,,,Sin información,Multisostenimiento,Cerrado permanentemente,Sin información,,,Hasta 50 personas,Cuauhtémoc,-99.1406109,19.433885,https://www.facebook.com/LaboratorioActororalRealismo/
+247,Multiforo 246,Música,Difusión,,,Rentado,Sin información,Abierto,Una clausura,,,Sin información,Cuauhtémoc,-99.1656822,19.4135782,https://www.facebook.com/Multiforo246
+248,Espacio cultural Tepito,Multidisciplina,Difusión,,,2016-2020,Sin información,Abierto,Sin clausuras,,,51 a 100 personas,Cuauhtémoc,-99.123325,19.442074,https://www.casabarriotepito.com/
+249,Teatro Roma,Teatro,Difusión,,,Sin información,Sin información,Cerrado permanentemente,Sin información,,,Sin información,Cuauhtémoc,-99.1623725,19.4094593,No cuenta con ninguna red ni página
+250,Foro Cultural SUTM,Música,Difusión,,,2011-2015,Sin información,Abierto,Sin clausuras,,,Más de 350 personas,Cuauhtémoc,-99.1864736613682,19.2809214384486,https://www.facebook.com/pages/Foro%20Cultural%20sutm/815851461824813/
+251,Galera Espacio cultural,Multidisciplina,Difusión,,,Sin información,Servicios,Abierto,Sin información,,,151 a 200 personas,Cuauhtémoc,-99.1533664897496,19.4202922185299,https://www.facebook.com/galeragaleramx/
+252,La té terraza cultural,Música,Difusión,,,Sin información,Sin información,Abierto,Sin información,,,Sin información,Tláhuac,-98.996408,19.276452,https://www.te-raza.com.mx/contact.html
+253,Cerrada del arte,Teatro,Difusión,,,Sin información,Servicios,Abierto,Sin información,,,Sin información,Coyoacán,-99.189159,19.346095,Sin información
+254,"Niños, voces y música de la tierra en movimiento",Música,Difusión,,,Sin información,Servicios,Abierto,Sin información,,,Sin información,Milpa Alta,-99.07090099,19.18465368,https://www.facebook.com/Tradicionmomoxca
+255,Foro Coapa Café,Teatro,Difusión,,,Sin información,Multisostenimiento,Abierto,Sin información,,,51 a 100 personas,Coyoacán,-99.1096638228955,19.3026070239563,"56 2124 17 64
+ www.elforitodecoapa.com"
+256,JazzClub,Música,Consumo,,,Sin información,Servicios,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.1597958,19.4189442,Sin información
+257,Expendio La Pulcata,Música,Consumo,,,Sin información,Sin información,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.164125,19.419272,Sin información
+258,New Orleans,Música,Consumo,,,Sin información,Servicios,Abierto,Sin información,,,Sin información,Álvaro Obregón,-99.1927323,19.3476849,https://nwjazz.wordpress.com/
+259,Bar Los Balcones,Música,Consumo,,,Sin información,Sin información,Cerrado permanentemente,Sin información,,,Sin información,Cuauhtémoc,-99.1327649,19.4358667,Sin informaciòn
+260,Bósforo,Multidisciplina,Consumo,,,Sin información,Servicios,Abierto,Una clausura,,,Sin información,Cuauhtémoc,-99.1451037,19.4332378,https://www.facebook.com/pages/B%C3%B3sforo%20Mezcaleria/280170022102134/
+261,Café Aurora,Música,Consumo,,,Sin información,Sin información,Sin información,Sin información,,,Sin información,Benito Juárez,-99.1491178,19.3639795,https://www.facebook.com/cafeauroraportales
+262,Café Urantia,Música,Consumo,,,Sin información,Sin información,Abierto,Sin información,,,Sin información,Xochimilco,-99.1083988,19.2645288,https://www.facebook.com/Caf%C3%A9-Urantia-Reloaded-108052043865407/
+263,Casa Show,Artes vivas,Consumo,,,Sin información,Sin información,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.163837,19.419158,https://www.facebook.com/CASA-SHOW-112523140919075
+264,Jazztlán Capital,Música,Consumo,,,Sin información,Servicios,Abierto,Sin información,,,,Cuauhtémoc,99.1648283,19.4159187,https://linktr.ee/jazzatlancapital
+265,Cusí y Subcultura Sintétika A.C.,Multidisciplina,Consumo,,,Sin información,Sin información,Sin información,Sin información,,,51 a 100 personas,Cuauhtémoc,-99.1577522,19.4368606,Sin informacióm
+266,Foro Amberes,Música,Consumo,,,Sin información,Servicios,Cerrado permanentemente,Sin información,,,101 a150 personas,Cuauhtémoc,-99.165145,19.425524,Sin información
+267,Foro Normandie,Música,Consumo,,,Propio,Multisostenimiento,Cerrado temporalmente,Una clausura,,,Más de 350 personas,Cuauhtémoc,-99.142047,19.4331331,https://www.facebook.com/foronormandie
+268,Foro Terraza,Artes vivas,Consumo,,,Sin información,Sin información,Sin información,Sin información,,,Sin información,Álvaro Obregón,-99.185827,19.348536,Sin información
+269,Frëims ,Música,Consumo,,,Sin información,Servicios,Abierto,Sin información,,,51 a 100 personas,Cuauhtémoc,-99.169537,19.41454,https://www.facebook.com/freims.mex
+270,Gato calavera,Música,Consumo,,,Rentado,Servicios,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.1636637,19.4218677,https://www.facebook.com/gatocalaverapunkrock/ 
+271,Groove Restaurante Bar,Música,Consumo,,,Rentado,Servicios,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.171254,19.410116,https://www.facebook.com/GrooveRestauranteBar
+272,Kuii,Multidisciplina,Consumo,,,Sin información,Servicios,Cerrado permanentemente,Sin información,,,Sin información,Cuauhtémoc,-99.1644535,19.4193056,https://lacalacacultural.wordpress.com/?fbclid=IwAR1zwEdFQW5ilgW08Aq5foPoonhOay9oCjgoCMpI219bN2JXELu_YfJuzeE
+273,"La chinampa ""el hoyo rasta""",Multidisciplina,Consumo,,,Sin información,Sin información,Abierto,Sin información,,,Sin información,Venustiano Carranza,-99.117758,19.40897,Sin información
+274,La Luna Roja,Música,Consumo,,,Rentado,Servicios,Abierto,Sin información,,,Sin información,Xochimilco,-99.1112178,19.2650627,https://www.facebook.com/profile.php?id=100057675668809
+275,La vie en rose,Teatro,Consumo,,,Sin información,Servicios,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.168103,19.416925,https://www.facebook.com/lavieenrosecdmx/
+276,Lahuma Café,Artes escénicas,Consumo,,,Sin información,Servicios,Abierto,Sin información,,,Sin información,Coyoacán,-99.1825435,19.3392532,https://www.facebook.com/Lahuma-Caf%C3%A9-277347422454425/
+277,Las escaleras,Música,Consumo,,,Sin información,Servicios,Cerrado permanentemente,Sin información,,,Sin información,Cuauhtémoc,-99.132263,19.435631,Sin información
+278,Las musas de papá sibarita,Música,Consumo,,,Sin información,Servicios,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.158045,19.412055,https://www.facebook.com/lasmusasdepapasibarita
+279,Melody Nelson,Música,Consumo,,,Sin información,Servicios,Cerrado permanentemente,Sin información,,,Sin información,Cuauhtémoc,-99.1645284,19.4141052,Sin información
+280,Néctar Negro/Zona,Multidisciplina,Consumo,,,Sin información,Servicios,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.163323,19.417797,https://www.facebook.com/NectarNegro
+281,Pérfida Bistro Café,Música,Consumo,,,Rentado,Sin información,Abierto,Sin información,,,Hasta 50 personas,Cuauhtémoc,-99.176373,19.40905,https://www.facebook.com/perfidabistro.mx/
+282,Punto G Army,Música,Consumo,,,Sin información,Sin información,Abierto,Sin información,,,51 a 100 personas,Iztapalapa,-99.0840869,19.3894583,https://www.facebook.com/PUNTOGARMY
+283,Rock Son,Música,Consumo,,,Rentado,Servicios,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.138874,19.433917,https://www.facebook.com/RockSonMadero//
+284,Salón Numantina,Música,Consumo,,,Sin información,Sin información,Abierto,Sin información,,,51 a 100 personas,Cuauhtémoc,-99.163775,19.442356,https://www.facebook.com/Cantina-la-numantina-2265037030423264
+285,V&S Galery Oficial,Otras disciplinas,Consumo,,,Sin información,Sin información,Cerrado permanentemente,Sin información,,,Sin información,Benito Juárez,-99.149872,19.395627,http://www.galeria-vs.org/
+286,The Hell Rock,Música,Consumo,,,Rentado,Servicios,Abierto,Sin información,,,Sin información,Gustavo A. Madero,-99.13411673,19.4915431421725,https://www.facebook.com/thehellrocklindavista
+287,Dobermann Centro,Música,Consumo,,,Rentado,Servicios,Abierto,Sin información,,,Sin información,Cuauhtémoc,-99.13897591,19.4343198730248,https://www.facebook.com/Dobermann-Centro-468971253144297
+288,Metal brothers,Música,Consumo,,,Rentado,Servicios,Cerrado temporalmente,Sin información,,,Sin información,Cuauhtémoc,-99.15455575,19.4177182445399,https://www.facebook.com/Metal-Brothers-487083411431991
+289,Rock Forum,Música,Consumo,,,Rentado,Servicios,Cerrado temporalmente,Sin información,,,Sin información,Venustiano Carranza,-99.092198,19.408858,https://www.facebook.com/Rock-Forum-1682984872011583
+290,El Bunker,Música,Consumo,,,Sin información,Servicios,Abierto,Sin información,,,Sin información,Xochimilco,-99104004,19.226917,https://www.facebook.com/AlaburguerBunker
+291,Pulque La  Santa Solita,Música,Consumo,,,Sin información,Servicios,Cerrado permanentemente,Sin información,,,Sin información,Tlalpan,-99.166361,19.289306,Sin información
+292,Foro 18*69,Artes escénicas,Consumo,,,Sin información,Servicios,Abierto,Sin información,,,251 a 300 personas,Álvaro Obregón,-99.18536116,19.3551833262885,https://foro1869.com/
+293,La Mano,Multidisciplina,Consumo,,,Sin información,Servicios,Abierto,Sin información,,,Sin información,Coyoacán,-99.17629825,19.3498998569686,http://www.culturalamano.com/
